@@ -27,6 +27,11 @@ In the game, you can control the players by clicking on them with the left mouse
 
 The game ends when one of the teams scores a predefined number of goals.
 
+
+## Output Sample
+Here's a short gif showing how the game is done.
+![Example GIF](./example.gif)
+
 ## Contributing
 This project is open source, and contributions are welcome. If you want to contribute to the project, please follow these steps:
 
