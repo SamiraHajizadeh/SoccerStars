@@ -1,4 +1,5 @@
-#Soccerstars Game Simulation
+##Soccerstars Game Simulation
+
 This project is a simulation of the Soccerstars Game, implemented using C++ language, object-oriented programming, and the RSDL library.
 
 Overview
