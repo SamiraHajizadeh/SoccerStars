@@ -30,6 +30,8 @@ The game ends when one of the teams scores a predefined number of goals.
 
 ## Output Sample
 Here's a short gif showing how the game is done.
+
+
 ![](https://github.com/SamiraHajizadeh/SoccerStars-AdvancedProgrammingProject5/blob/main/example.gif)
 
 ## Contributing
