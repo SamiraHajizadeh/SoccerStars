@@ -23,10 +23,9 @@ To run the Soccerstars Game Simulation, follow these steps:
 3. Compile the source code using the C++ compiler and the RSDL library.
 4. Run the executable file to start the game.
 
-In the game, move the players in the right direction (towards the ball) 
+In the game, you can control the players by clicking on them with the left mouse button and dragging the mouse in the direction you want them to move towards the ball. The amount of force applied to the movement is determined by the distance of the mouse pointer from the player; the further you move the pointer, the more force it will have. The direction of the move is opposite to the direction of your final mouse pointer position before you release the left mouse button.
 
-
-use the arrow keys to move your player, and press the spacebar to shoot the ball towards the goal. The game ends when one of the players scores a goal, and the winner is declared.
+The game ends when one of the teams scores a predefined number of goals.
 
 ## Contributing
 This project is open source, and contributions are welcome. If you want to contribute to the project, please follow these steps:
