@@ -42,3 +42,6 @@ This project is open source, and contributions are welcome. If you want to contr
 3. Make your changes to the source code.
 4. Commit your changes and push them to your forked repository.
 5. Submit a pull request to merge your changes into the main repository.
+
+## Credits
+This project was created by me as part of the Advanced Programming course at University of Tehran.
